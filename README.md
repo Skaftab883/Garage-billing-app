@@ -13,7 +13,7 @@ Follow the installation instructions for your operating system.
 # 2. Verify Java Installation
 Once Java is installed, verify it by running this command in your Command Prompt or Terminal:
 
-   java -version
+      java -version
 
 If you see the Java version number, it means Java is installed correctly.
 
@@ -24,11 +24,11 @@ On Windows:
 
   ii)  Navigate to the directory where the garage-app-billing.jar file is stored. You can use the cd command to change directories:
 
-  cd path\to\your\jar\file
+      cd path\to\your\jar\file
 
   iii) Run the .jar file with the following command:
 
-  java -jar garage-app-billing.jar
+     java -jar garage-app-billing.jar
 
  #  On macOS/Linux:
 Open Terminal.
@@ -37,7 +37,7 @@ Navigate to the folder where the garage-app-billing.jar file is located.
 
 Run the following command:
 
-java -jar garage-app-billing.jar
+    java -jar garage-app-billing.jar
 
 Once you run the command, the app will start, and you can interact with it via the command line to handle billing tasks.
 
